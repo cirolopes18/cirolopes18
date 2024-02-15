@@ -4,9 +4,9 @@
 
 ## Sobre mim:
 📓 Sou Economista formado pela UFMG. Atualmente, faço Mestrado em Economia no Centro de Desenvolvimento e Planejamento Regional (CEDEPLAR/UFMG) e trabalho como Analista de Dados na Fundação João Pinheiro. <br>
-💼 Trabalho com Análise de Dados desde 2019. Agoro, estou focado em adquirir as habilidades e os conhecimentos necessários para me tornar Cientista de Dados. <br>
+💼 Trabalho com Análise de Dados desde 2019. No momento, estou focado em adquirir as habilidades e os conhecimentos necessários para me tornar Cientista de Dados. <br>
 ✏️ Tenho experiência em trabalhar com R, Phyton, SQL, QGIS, Stata, Excel e Power BI. <br>
-📚 Possuo conhecimentos em análise econométricas de dados cross-sectional, de dados em painel e de séries temporais e em análises estatísticas (análise descritiva, inferência estatística, análise dos componentes principais). <br>
+📚 Possuo conhecimentos em análises econométricas de dados cross-sectional, de dados em painel e de séries temporais e em análises estatísticas (análise descritiva, inferência estatística, análise dos componentes principais). <br>
 📫 Contato ciroemlopes@gmail.com <br>
 <br>
 ## Redes
